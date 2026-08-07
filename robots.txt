@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-fnk15t.haybaleman.co.nz/sitemap.xml
